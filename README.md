@@ -4,7 +4,8 @@
 
 ### Whoami
 
-- Back-end dev (python).
+Back-end dev (python).
+
 - 😄 Pronouns: like 'Mishaaaa'
 - 🌱 I’m currently learning asynchronous and multithreaded programming
 - ⚡ I love all kinds of boards on which you can ride 
