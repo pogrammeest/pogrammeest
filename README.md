@@ -1,5 +1,10 @@
 **GitHub stats**
-<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=pogrammeest&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="pogrammeest" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogrammeest&count_private=true&langs_count=10&theme=radical&layout=compact&include_all_commits=true" alt="pogrammeest" /></p>
+<p align="center">
+	<img height=190 src="https://github-readme-stats.vercel.app/api?username=pogrammeest&show_icons=true&hide=contribs,issues&bg_color=45,ADBFD0,79868F&title_color=000&text_color=000&border_color=000&icon_color=000&count_private=true&include_all_commits=true" alt="pogrammeest"/> 
+	<img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogrammeest&count_private=true&langs_count=10&exclude_repo=OUR-fistr-tears-in-Unity&bg_color=45,ADBFD0,79868F&title_color=000&text_color=000&border_color=000&icon_color=000&layout=compact&include_all_commits=true" alt="pogrammeest"/>
+</p>
+
+
 ### Hi there 👋
 
 - My name is Mihail. I'm studying at Peter the Great St.Petersburg Polytechnic University, Saint-Petersburg, Russia.
