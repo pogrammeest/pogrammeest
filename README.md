@@ -16,7 +16,7 @@ Back-end dev (python).
 
 - [ikigear](https://github.com/pogrammeest/ikigear) — a simple portal with news about games. Django + SQLite + AWS Bucket + Heroku
 - [Gamebot](https://github.com/pogrammeest/Bot_for_Empire) — Discord bot for text RPG game for my Discord server. Python + Discord API + SQLite.
-- [CRM](https://github.com/pogrammeest/CRMTask) — Test task for a vacancy(CRM). Django REST + PostgreSQL (in progress... 🔭)
+- [Simple social network](https://github.com/pogrammeest/wbTech) — Test task for a vacancy. Django REST + PostgreSQL.
 
 
 ### Languages and Tools 
