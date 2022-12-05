@@ -12,12 +12,16 @@ Back-end dev (python).
 - 🌱 I’m currently learning asynchronous and multithreaded programming
 - ⚡ I love all kinds of boards on which you can ride 
 
+
 ### Pet-projects
 
 - [ikigear](https://github.com/pogrammeest/ikigear) — a simple portal with news about games. Django + SQLite + AWS Bucket + Heroku
 - [Gamebot](https://github.com/pogrammeest/Bot_for_Empire) — Discord bot for text RPG game for my Discord server. Python + Discord API + SQLite.
 - [Simple social network](https://github.com/pogrammeest/wbTech) — Test task for a vacancy. Django REST + PostgreSQL.
 
+### Contacts:
+
+- Telegram: [@pogrammeest](https://t.me/pogrammeest)
 
 ### Languages and Tools 
 
