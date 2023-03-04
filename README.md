@@ -28,7 +28,7 @@ Back-end dev (python).
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150585124-8460f18a-9252-4e72-b44e-47b66c95bd74.png"></code>](https://www.djangoproject.com)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150592066-edb00215-4cc3-4da7-8ee9-059160046907.png"></code>](https://www.postgresql.org)
-[<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png](https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Vertical.png.webp 677w, https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Vertical-480x411.png.webp 480w)"></code>](https://www.docker.com)
+[<code><img height="30" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"></code>](https://www.docker.com)
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--[<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>]
 
