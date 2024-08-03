@@ -53,7 +53,7 @@ Back-end dev (python).
   </a>
 </p>
 
-**IDE **
+**IDE**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,vim" />
