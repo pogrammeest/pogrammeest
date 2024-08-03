@@ -28,7 +28,7 @@ Back-end dev (python).
 **Programming languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp" />
   </a>
 </p>
 
@@ -42,14 +42,14 @@ Back-end dev (python).
 **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,redis" />
+    <img src="https://skillicons.dev/icons?i=postgres,elasticsearch,redis,mongodb" />
   </a>
 </p>
 
 **Other technologies**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,nginx,sentry,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,bash,nginx,sentry,gcp" />
   </a>
 </p>
 
