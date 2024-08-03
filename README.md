@@ -42,7 +42,7 @@ Back-end dev (python).
 **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,redis" />
   </a>
 </p>
 
