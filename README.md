@@ -49,7 +49,7 @@ Back-end dev (python).
 **Other technologies**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,bash,nginx,sentry,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,bash,gcp,nginx,sentry" />
   </a>
 </p>
 
