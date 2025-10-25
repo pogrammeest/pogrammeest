@@ -42,7 +42,7 @@ Back-end dev (python).
 **Other technologies**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,git,kubernetes,docker,sentry,kafka,rabbitmq,linux,bash,grafana,jenkins" />
+    <img src="https://skillicons.dev/icons?i=nginx,git,kubernetes,docker,sentry,kafka,rabbitmq,grafana,linux,bash,jenkins" />
   </a>
 </p>
 
