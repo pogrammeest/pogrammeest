@@ -9,15 +9,8 @@
 Back-end dev (python).
 
 - 😄 Pronouns: like 'Mishaaaa'
-- 🌱 I’m currently learning asynchronous and multithreaded programming
+- 🌱 I’m currently learning <img src="https://skillicons.dev/icons?i=go,react,unity" />
 - ⚡ I love all kinds of boards on which you can ride 
-
-
-### Pet-projects
-
-- [ikigear](https://github.com/pogrammeest/ikigear) — a simple portal with news about games. Django + SQLite + AWS Bucket + Heroku
-- [Gamebot](https://github.com/pogrammeest/Bot_for_Empire) — Discord bot for text RPG game for my Discord server. Python + Discord API + SQLite.
-- [Simple social network](https://github.com/pogrammeest/wbTech) — Test task for a vacancy. Django REST + PostgreSQL.
 
 ### Contacts:
 
@@ -49,7 +42,7 @@ Back-end dev (python).
 **Other technologies**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,bash,gcp,nginx,sentry" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,linux,grafana,bash,kafka,rabbitmq,nginx,sentry" />
   </a>
 </p>
 
@@ -59,6 +52,12 @@ Back-end dev (python).
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,vim" />
   </a>
 </p>
+
+### Pet-projects
+
+- [ikigear](https://github.com/pogrammeest/ikigear) — a simple portal with news about games. Django + SQLite + AWS Bucket + Heroku
+- [Gamebot](https://github.com/pogrammeest/Bot_for_Empire) — Discord bot for text RPG game for my Discord server. Python + Discord API + SQLite.
+- [Simple social network](https://github.com/pogrammeest/wbTech) — Test task for a vacancy. Django REST + PostgreSQL.
 
 <!--[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150585124-8460f18a-9252-4e72-b44e-47b66c95bd74.png"></code>](https://www.djangoproject.com)
