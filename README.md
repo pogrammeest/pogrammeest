@@ -10,7 +10,7 @@ Back-end dev (python).
 
 - 😄 Pronouns: like 'Misha'
 - ⚡ I love all kinds of boards on which you can ride
-- 🌱 I’m currently learning: <img style="margin-top: 10px;" src="https://skillicons.dev/icons?i=go,react,unity" />
+- 🌱 I’m currently learning Go and GameDev
 
 ### Contacts:
 
